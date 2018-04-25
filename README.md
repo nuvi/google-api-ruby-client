@@ -1,3 +1,9 @@
+### NOTE
+
+This is a NUVI specific version that incorporates a fix for CR/LF issue for older (0.8.6) version: https://github.com/google/google-api-ruby-client/pull/654
+
+============================================================================
+
 # Google API Client
 
 <dl>
